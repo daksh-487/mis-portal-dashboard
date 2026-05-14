@@ -26,15 +26,15 @@ A high-performance, offline-first Management Information System (MIS) and execut
 
 ### Dashboard Overview
 > Shows top-line KPIs, sales targets, channel revenue, and SKU performance.
-*(Add your screenshot here)*
+![Dashboard Overview](assets/dashboard.png)
 
 ### Profit & Loss Statement
 > Automated P&L layout generated instantly from uploaded sales data and manual cost inputs.
-*(Add your screenshot here)*
+![P&L Statement](assets/pnl.png)
 
 ### Data Upload Wizard
 > Smart CSV mapping that automatically matches your raw sales dumps into standard data structures.
-*(Add your screenshot here)*
+![Data Upload](assets/upload.png)
 
 ## 🚀 Quick Start
 
